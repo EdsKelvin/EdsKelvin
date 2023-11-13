@@ -20,5 +20,5 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/edson-laurindo-354339256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"></a> 
+  <a href="https://www.linkedin.com/in/edson-laurindo-354339256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
 </div>
