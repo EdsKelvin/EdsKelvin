@@ -4,7 +4,6 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edskelvin&theme=midnight-purple&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edskelvin&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
@@ -20,5 +19,10 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/edson-laurindo-354339256" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a> 
-</div>
+ <a href="www.linkedin.com/in/edsonlaurindo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white target="_blank">
+  <a target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</a> 
+
+
+
