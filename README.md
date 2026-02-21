@@ -1,6 +1,8 @@
-### Oii... eu sou o Edson, Desenvolvedor de Software 🦆
-- 💻 Apaixonado por tecnologia
-- 📓 Estudante de Sistemas da Informação 5/9
+### Full Stack Software Engineer 🦆
+
+Dedicated to building scalable, high-availability systems. Currently focused on Vue/Nuxt and Laravel at Single Software. Co-founder of Entregae.
+
+Expert in bridging the gap between complex backend logic and seamless frontend experiences using TypeScript, React Native, and PostgreSQL. Agile-driven and performance-focused.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eds-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
